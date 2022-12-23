@@ -1,0 +1,11 @@
+.head{
+    margin: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    background-color: blue;
+    text-align: right;
+    justify-content: left;
+}
+
