@@ -1,7 +1,7 @@
 
-import Header from './Components/Header';
-import Footer from './Components/Footer';
-import body from './Components/MainPage';
+import Header from './Components/index.jsx';
+import Footer from './Components/index.jsx';
+import body from './Components/Body/MainPage';
 
 function App() {
   return (
